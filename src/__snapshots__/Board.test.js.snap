@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering and win state matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`<Board /> rendering matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <tbody>
+      <tr>
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell "
+          role="button"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
